@@ -276,7 +276,7 @@ a{
 
 @media only screen and (max-width:688px){
     header{
-        height: 150vh;
+        height: 125vh;
         width: 100%;
     }
     .components{
